@@ -3,7 +3,6 @@
 ## 📱 Contatos
 [![Proton](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white
 )](https://code1one@proton.me)
-
 ![Unkn0wn-del's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unkn0wn-del&show_icons=true&theme=dark)
 
 ## 👨‍💻 Skills:
@@ -21,7 +20,9 @@
 <div style="display:inline_block"><br/>
 <img alt="center" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
 <img alt="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img alt="center" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
 <img alt="center" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img alt="center" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
 
 ## 🎮 Games
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198862987202/)
