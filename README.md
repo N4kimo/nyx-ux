@@ -6,6 +6,7 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521976192585)
 
 ![Unkn0wn-del's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unkn0wn-del&show_icons=true&theme=dark)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Unkn0wn-del&color=red" alt="Profile views" /> </p>
 
 ## 🚀 Skills
 <div style ="display: inline_block"><br/>
@@ -19,6 +20,7 @@
 
  ## 👨‍💻 Office
   ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
 
   ## 🌐 Web Browsers
    [![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/pt-BR/firefox/new/)
