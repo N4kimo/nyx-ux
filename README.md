@@ -6,7 +6,7 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521976192585)
 
 ![Unkn0wn-del's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyx-ux&show_icons=true&theme=dark)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Unkn0wn-del&color=red" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nyx-ux&color=red" alt="Profile views" /> </p>
 
 ## 🚀 Skills
 <div style ="display: inline_block"><br>
@@ -32,7 +32,6 @@
 
 ##  🎮 Games
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198862987202/)
-[![Epic](https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white)](https://store.epicgames.com/pt-BR/u/3c72597240224a15a0c0643fa140d3a4)
 
 ## 👨 Social
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-souza-b2ba062a0/)
