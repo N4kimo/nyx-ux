@@ -40,6 +40,6 @@
 
 
 ## 👨‍💻 Programming
-<img alt="Unkn0wn-del Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyx-ux&layout=compact&theme=github_dark&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+<img alt="nyx-ux Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyx-ux&layout=compact&theme=github_dark&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
 
   
