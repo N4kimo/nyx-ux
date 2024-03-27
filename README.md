@@ -5,7 +5,7 @@
 )](mailto:code1one@proton.me?)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521976192585)
 
-![Unkn0wn-del's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unkn0wn-del&show_icons=true&theme=dark)
+![Unkn0wn-del's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyx-ux&show_icons=true&theme=dark)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Unkn0wn-del&color=red" alt="Profile views" /> </p>
 
 ## 🚀 Skills
@@ -40,6 +40,6 @@
 
 
 ## 👨‍💻 Programming
-<img alt="Unkn0wn-del Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unkn0wn-del&layout=compact&theme=github_dark&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+<img alt="Unkn0wn-del Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyx-ux&layout=compact&theme=github_dark&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
 
   
