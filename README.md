@@ -3,7 +3,6 @@
 ## 📱 Contact
 [![Proton](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white
 )](mailto:code1one@proton.me?)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521976192585)
 
 ![Unkn0wn-del's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyx-ux&show_icons=true&theme=dark)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyx-ux&color=red" alt="Profile views" /> </p>
