@@ -4,8 +4,8 @@
 [![Proton](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white
 )](mailto:code1one@proton.me?)
 
-![Unkn0wn-del's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyx-ux&show_icons=true&theme=dark)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nyx-ux&color=red" alt="Profile views" /> </p>
+![nyx-ux GitHub stats](https://github-readme-stats.vercel.app/api?username=nyx-ux&show_icons=true&theme=dark)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nyx-ux&color=purple" alt="Profile views" /> </p>
 
 ## 🚀 Skills
 <div style ="display: inline_block"><br>
