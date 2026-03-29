@@ -4,7 +4,7 @@
 [![Proton](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white
 )](mailto:code1one@proton.me?)
 
-![N4kimo GitHub stats](https://github-readme-stats.vercel.app/api?username=N4kimo&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=N4kimo&show_icons=true&theme=dark)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=N4kimo&color=purple" alt="Profile views" /> </p>
 
 ## 🚀 Skills
