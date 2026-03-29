@@ -5,7 +5,7 @@
 )](mailto:code1one@proton.me?)
 
 ![nyx-ux GitHub stats](https://github-readme-stats.vercel.app/api?username=nyx-ux&show_icons=true&theme=dark)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nyx-ux&color=purple" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=N4KIMO&color=purple" alt="Profile views" /> </p>
 
 ## 🚀 Skills
 <div style ="display: inline_block"><br>
