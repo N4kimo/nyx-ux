@@ -4,8 +4,8 @@
 [![Proton](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white
 )](mailto:code1one@proton.me?)
 
-![nyx-ux GitHub stats](https://github-readme-stats.vercel.app/api?username=nyx-ux&show_icons=true&theme=dark)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=N4KIMO&color=purple" alt="Profile views" /> </p>
+![N4kimo GitHub stats](https://github-readme-stats.vercel.app/api?username=N4kimo&show_icons=true&theme=dark)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=N4kimo&color=purple" alt="Profile views" /> </p>
 
 ## 🚀 Skills
 <div style ="display: inline_block"><br>
@@ -43,6 +43,6 @@
 
 
 ## 👨‍💻 Programming
-<img alt="nyx-ux Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4kimo&layout=compact&theme=github_dark&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
+<img alt="N4kimo Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N4kimo&layout=compact&theme=github_dark&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"/>
 
   
