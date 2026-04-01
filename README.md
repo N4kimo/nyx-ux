@@ -1,13 +1,12 @@
-### Olá...
+### Olá me chamo sou amante por tecnologia, atualmente estou fazendo Bacharelado em eng de software.
 
 ## 📱 Contact
 [![Proton](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white
 )](mailto:code1one@proton.me?)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=N4kimo&show_icons=true&theme=dark)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=N4kimo&color=purple" alt="Profile views" /> </p>
-
-## 🚀 Skills
+ [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/N4kimo?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card) 
+ 
+## 🚀 [Skills](https://github.com/N4kimo/N4kimo.git)
 <div style ="display: inline_block"><br>
 <img alt="center" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
  /> 
